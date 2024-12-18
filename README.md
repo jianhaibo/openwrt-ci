@@ -11,6 +11,9 @@
 - 源码：[LiBwrt](https://github.com/LiBwrt-op/openwrt-6.x)
 - 源码：[immortalwrt](https://github.com/immortalwrt/immortalwrt)
 - 云编译来源：https://github.com/haiibo/OpenWrt
+- 自用京东云亚瑟ax1800固件，在源代码基础上增加kmod-full内核模块用于安装alist等软件，第三方软件可以在软件管理直接搜索安装
+- OpenClash、alist、aria2都可以正常安装使用
+- 去广告可以直接在OpenClash的自定义规则添加anti-ad规则走REJECT
 
 ## 固件下载 [![](https://img.shields.io/badge/-编译状态及下载链接-FFFFFF.svg)](#固件下载-)
 点击下表中 [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?style=flat&logo=hack-the-box)](https://github.com/haiibo/OpenWrt/releases) 即可跳转到该设备固件下载页面
